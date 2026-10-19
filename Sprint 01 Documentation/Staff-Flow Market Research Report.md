@@ -1,3 +1,5 @@
+> Archive status: historical planning/research artifact. Pricing, market figures, competitor comparisons, neural-network/native-app claims and compliance statements below are unverified historical notes. See [archive caveats](../docs/archive-notes.md) and the [current implementation](../docs/current-implementation.md).
+
 ---
 
 
